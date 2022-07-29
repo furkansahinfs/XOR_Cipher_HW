@@ -1,5 +1,5 @@
 # XOR_Cipher_HW
-This repository holds course assignment of Information Security.  XOR cipher is basically includes DHKE and CBC.
+This repository holds course assignment of Information Security.  XOR cipher basically includes DHKE and CBC.
 
 Look at the HW.pdf to find the details of homework.
 
